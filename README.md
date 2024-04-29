@@ -1,4 +1,4 @@
-# CatVM
+# Merkle Trees
 
 Merkle trees are a fundamental data structure used in cryptography and computer science, particularly in the context of blockchain technology like Bitcoin. They are named after Ralph Merkle, who first proposed this structure in the 1970s.
 
